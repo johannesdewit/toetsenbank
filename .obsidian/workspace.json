@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sjablonen/toets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65fc790e8ce47357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "sjablonen/vraag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,11 @@
       "zk-prefixer:Maak een nieuwe unieke notities aan": false
     }
   },
-  "active": "65fc790e8ce47357",
+  "active": "1c26c5f124448faa",
   "lastOpenFiles": [
-    "Naamloos.md",
-    "sjablonen/vraag.md",
     "sjablonen/toets.md",
+    "sjablonen/vraag.md",
+    "Naamloos.md",
     "README.md",
     "toetsenbank/1711971386089.md",
     "toetsenbank/Naamloos.md",

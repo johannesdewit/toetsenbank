@@ -6,6 +6,7 @@ aangemaakt-op:
   "{ date }": 
 unix-timestamp:
   "{ date:x }": 
+moet-volgen-op: 
 puntenaantal: 
 niveau: 
 taal: nld
@@ -15,9 +16,12 @@ taxonomie-bloom: None
 aliases:
   - "{{date:x}}"
 ---
+<!-- geen bron 
 ## Bron
-<!-- geen bron -->
+-->
 ## Vraag
 
+
+<!-- geen antwoordmodel 
 ## Antwoordmodel
-<!-- geen antwoordmodel -->
+-->
